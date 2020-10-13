@@ -1,0 +1,2063 @@
+{
+    "data": {
+        "site": {
+            "name": "cricket",
+            "showTeamCombination": {
+                "count": 0,
+                "siteKey": "cricket"
+            },
+            "teamPreviewArtwork": [
+                {
+                    "src": "https://assets.dream11.com/public/imgs/cricket-artwork.svg"
+                }
+            ],
+            "teamCriteria": {
+                "totalCredits": 100,
+                "maxPlayerPerSquad": 7,
+                "totalPlayerCount": 11
+            },
+            "roles": [
+                {
+                    "id": 1,
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+                        }
+                    ],
+                    "color": "#F5A623",
+                    "name": "Captain",
+                    "pointMultiplier": 2,
+                    "shortName": "C"
+                },
+                {
+                    "id": 2,
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+                        }
+                    ],
+                    "color": "#4A90E2",
+                    "name": "Vice Captain",
+                    "pointMultiplier": 1.5,
+                    "shortName": "VC"
+                }
+            ],
+            "playerTypes": [
+                {
+                    "id": 3,
+                    "name": "Wicket-Keepers",
+                    "minPerTeam": 1,
+                    "maxPerTeam": 4,
+                    "shortName": "WK",
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerType/wk-img.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Batsmen",
+                    "minPerTeam": 3,
+                    "maxPerTeam": 6,
+                    "shortName": "BAT",
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerType/bt-img.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "All-Rounders",
+                    "minPerTeam": 1,
+                    "maxPerTeam": 4,
+                    "shortName": "AR",
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerType/ar-img.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Bowlers",
+                    "minPerTeam": 3,
+                    "maxPerTeam": 6,
+                    "shortName": "BOWL",
+                    "artwork": [
+                        {
+                            "src": "https://assets.dream11.com/public/imgs/playerType/bw-img.png"
+                        }
+                    ]
+                }
+            ],
+            "tour": {
+                "match": {
+                    "id": 22414,
+                    "guru": "https://fancode.com/cricket/dream11-ipl-blr-v-kol-virat-kohlis-presence-as-captain-can-strengthen-your-dream11-team/?_sg_article_id_=49942",
+                    "squads": [
+                        {
+                            "flag": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRC-CR3@2x.png"
+                                }
+                            ],
+                            "flagWithName": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRC-CR3@2x-BIG.png"
+                                }
+                            ],
+                            "id": 269,
+                            "jerseyColor": "#fe1e17",
+                            "name": "BLR",
+                            "shortName": "BLR"
+                        },
+                        {
+                            "flag": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1@2x.png"
+                                }
+                            ],
+                            "flagWithName": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1@2x-BIG.png"
+                                }
+                            ],
+                            "id": 273,
+                            "jerseyColor": "#9e92af",
+                            "name": "KOL",
+                            "shortName": "KOL"
+                        }
+                    ],
+                    "startTime": "2020-10-12T14:00:00.000Z",
+                    "status": "WAITING_FOR_REVIEW",
+                    "players": [
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1257.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 9,
+                            "id": 1257,
+                            "name": "Chris Morris",
+                            "points": 169,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 67.57,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 2.5
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 6.34
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1488.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 1488,
+                            "name": "Moeen Ali",
+                            "points": 45,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.59,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.02
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/9000.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 9000,
+                            "name": "Washington Sundar",
+                            "points": 233,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 26.71,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.35
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 1.13
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/9090.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 9090,
+                            "name": "Shivam Dube",
+                            "points": 220,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 20.65,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.33
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.83
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/default-player-image.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 7.5,
+                            "id": 21136,
+                            "name": "Shahbaz Ahmed",
+                            "points": 0,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.18,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1091.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 10,
+                            "id": 1091,
+                            "name": "Andre Russell",
+                            "points": 265,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": {
+                                "id": 2,
+                                "artwork": [
+                                    {
+                                        "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+                                    }
+                                ],
+                                "color": "#4A90E2",
+                                "name": "Vice Captain",
+                                "pointMultiplier": 1.5,
+                                "shortName": "VC"
+                            },
+                            "statistics": {
+                                "selectionRate": 60.91,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 3.82
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 8.91
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/896.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 9,
+                            "id": 896,
+                            "name": "Sunil Narine",
+                            "points": 208,
+                            "type": {
+                                "id": 4,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "ALL",
+                                "shortName": "ALL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 7.54,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.25
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.65
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/31.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 31,
+                            "name": "Parthiv Patel",
+                            "points": 0,
+                            "type": {
+                                "id": 3,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "WK",
+                                "shortName": "WK"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.47,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.03
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.04
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/342.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 10,
+                            "id": 342,
+                            "name": "AB de Villiers",
+                            "points": 362,
+                            "type": {
+                                "id": 3,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "WK",
+                                "shortName": "WK"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 88.47,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 15.79
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 10.77
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/14803.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 14803,
+                            "name": "Josh Philippe",
+                            "points": 13,
+                            "type": {
+                                "id": 3,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "WK",
+                                "shortName": "WK"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.43,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.02
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.03
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/5990.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 5990,
+                            "name": "Nikhil Naik",
+                            "points": 13,
+                            "type": {
+                                "id": 3,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "WK",
+                                "shortName": "WK"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.27,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.02
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/20.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8.5,
+                            "id": 20,
+                            "name": "Dinesh Karthik",
+                            "points": 190,
+                            "type": {
+                                "id": 3,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "WK",
+                                "shortName": "WK"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 46.21,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 1.99
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 3.34
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/635.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 10.5,
+                            "id": 635,
+                            "name": "Virat Kohli",
+                            "points": 338,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 87.96,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 35.03
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 10.49
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/899.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 9,
+                            "id": 899,
+                            "name": "Aaron Finch",
+                            "points": 249,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 56.25,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 10.46
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 6.49
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1250.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 1250,
+                            "name": "Gurkeerat Singh Mann",
+                            "points": 28,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.46,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.02
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11552.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 11552,
+                            "name": "Pavan Deshpande",
+                            "points": 0,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.15,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/12843.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 12843,
+                            "name": "Devdutt Padikkal",
+                            "points": 378,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": {
+                                "id": 1,
+                                "artwork": [
+                                    {
+                                        "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+                                    }
+                                ],
+                                "color": "#F5A623",
+                                "name": "Captain",
+                                "pointMultiplier": 2,
+                                "shortName": "C"
+                            },
+                            "statistics": {
+                                "selectionRate": 68.54,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 8.78
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 7.86
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11536.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 11536,
+                            "name": "Tom Banton",
+                            "points": 10,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 21.45,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 1.85
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 2.8
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11533.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 9,
+                            "id": 11533,
+                            "name": "Shubman Gill",
+                            "points": 360,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 74.66,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 8.08
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 16.33
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/default-player-image.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 8905,
+                            "name": "Rinku Singh",
+                            "points": 0,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.13,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.02
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8793.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8.5,
+                            "id": 8793,
+                            "name": "Rahul Tripathi",
+                            "points": 180,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 45.4,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 3.05
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 5.99
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/5986.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 5986,
+                            "name": "Siddhesh Lad",
+                            "points": 0,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.13,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/5985.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 9,
+                            "id": 5985,
+                            "name": "Nitish Rana",
+                            "points": 220,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 43.37,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 2.4
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 5.43
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/612.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 9.5,
+                            "id": 612,
+                            "name": "Eoin Morgan",
+                            "points": 253,
+                            "type": {
+                                "id": 1,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BAT",
+                                "shortName": "BAT"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 54.11,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 2.71
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 5.62
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/346.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 346,
+                            "name": "Dale Steyn",
+                            "points": 26,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.91,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/754.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 754,
+                            "name": "Umesh Yadav",
+                            "points": 14,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.67,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/813.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 813,
+                            "name": "Isuru Udana",
+                            "points": 204,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 45.1,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.14
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.42
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1132.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 9,
+                            "id": 1132,
+                            "name": "Yuzvendra Chahal",
+                            "points": 291,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 78.73,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 1.2
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 3.29
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1239.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 1239,
+                            "name": "Pawan Negi",
+                            "points": 0,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.26,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1418.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 1418,
+                            "name": "Adam Zampa",
+                            "points": 25,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.37,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8605.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8.5,
+                            "id": 8605,
+                            "name": "Navdeep Saini",
+                            "points": 156,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 30.08,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.13
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.37
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8872.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 269,
+                                "name": "BLR",
+                                "jerseyColor": "#fe1e17",
+                                "shortName": "BLR"
+                            },
+                            "credits": 8,
+                            "id": 8872,
+                            "name": "Mohammed Siraj",
+                            "points": 97,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 13.55,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.08
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.23
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/15207.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 15207,
+                            "name": "Ali Khan",
+                            "points": 0,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.13,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/12573.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 12573,
+                            "name": "Varun Chakravarthy",
+                            "points": 175,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 32.77,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.1
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.31
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/default-player-image.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 7.5,
+                            "id": 12569,
+                            "name": "Manimaran Siddharth",
+                            "points": 0,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.5,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11661.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8.5,
+                            "id": 11661,
+                            "name": "Shivam Mavi",
+                            "points": 172,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 2.02,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.02
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11534.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 11534,
+                            "name": "Kamlesh Nagarkoti",
+                            "points": 142,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 24.42,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.09
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.26
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8426.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8.5,
+                            "id": 8426,
+                            "name": "Lockie Ferguson",
+                            "points": 0,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.19,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/6867.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 6867,
+                            "name": "Prasidh Krishna",
+                            "points": 106,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": true,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 40.49,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.2
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.62
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/4802.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 4802,
+                            "name": "Chris Green",
+                            "points": 0,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.18,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1889.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8.5,
+                            "id": 1889,
+                            "name": "Kuldeep Yadav",
+                            "points": 36,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.47,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0.01
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1528.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 8,
+                            "id": 1528,
+                            "name": "Sandeep Warrier",
+                            "points": -2,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "NOT_PLAYING",
+                                "text": "",
+                                "color": "#e10000"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 0.18,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.01
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "artwork": [
+                                {
+                                    "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1172.png"
+                                }
+                            ],
+                            "squad": {
+                                "id": 273,
+                                "name": "KOL",
+                                "jerseyColor": "#9e92af",
+                                "shortName": "KOL"
+                            },
+                            "credits": 9,
+                            "id": 1172,
+                            "name": "Pat Cummins",
+                            "points": 181,
+                            "type": {
+                                "id": 2,
+                                "maxPerTeam": 0,
+                                "minPerTeam": 0,
+                                "name": "BOWL",
+                                "shortName": "BOWL"
+                            },
+                            "lineupStatus": {
+                                "status": "PLAYING",
+                                "text": "Announced",
+                                "color": "#00b137"
+                            },
+                            "isSelected": false,
+                            "role": null,
+                            "statistics": {
+                                "selectionRate": 56.46,
+                                "role": [
+                                    {
+                                        "id": 1,
+                                        "selectionRate": 0.48
+                                    },
+                                    {
+                                        "id": 2,
+                                        "selectionRate": 1.26
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "tour": {
+                        "id": 1551
+                    }
+                }
+            },
+            "showSelPercent": true
+        },
+        "me": {
+            "isGuestUser": false,
+            "showOnboarding": false
+        }
+    }
+}
