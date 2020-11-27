@@ -3,7 +3,6 @@ const fs = require('fs');
 let contest = require('./contest.json');
 let players = contest.data.site.tour.match.players;
 let getRandomNo = (len) => Math.floor(Math.random() * len);
-const updateTeam = require('./lib/team_update');
 const teamScore = require('./lib/check_score');
 const validateTeam = require('./lib/validate_team');
 const average = (nos) => (nos.reduce((s, a) => (s += a, s), 0) / nos.length);
@@ -129,8 +128,6 @@ combinations.team = combinations.team.map((c, idx) => {
 
 // console.log(teamScoreAfterMatch.sort((a, b) => (b - a)), 'Avg: ' + average(teamScoreAfterMatch.sort((a, b) => (b - a)).slice(0, 3)));
 // fs.appendFileSync('points.txt', teamScoreAfterMatch.join('\n') + "\n");
-
-updateTeam(combinations.team, matchId, tourId);
 
 console.log('Built Teams: ' + combinations.team.length);
 fs.writeFileSync('teams.json', JSON.stringify(combinations.team, null, 2));
